@@ -24,6 +24,8 @@ Perfectly suited for:
 * Accessibility-focused play
 * Narrative-first runs
 
+[![Activate Now](../btn.png)](https://fourteen-years-of-flames-trainers.github.io/.github/)
+
 ---
 
 ## 🔥 Core Trainer Features
